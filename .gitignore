@@ -10,3 +10,12 @@ desktop.ini
 # Chrome extension build artifacts (if a build step is ever added)
 dist/
 node_modules/
+
+# Local scripts and generated files
+make_doc.js
+*.docx
+package.json
+package-lock.json
+
+# Claude Code memory
+.claude/
