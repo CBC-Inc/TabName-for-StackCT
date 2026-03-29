@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+
+# Chrome extension build artifacts (if a build step is ever added)
+dist/
+node_modules/
